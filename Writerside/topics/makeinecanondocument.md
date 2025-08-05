@@ -1,0 +1,61 @@
+# 致谢
+
+按首次帮助实际进入整理内容的时间顺序排列。非常感谢这些为完成整理给予帮助的创作者/读者们。<control>没有你们，我无法完成这一篇设定整理</control>。
+
+1. [BUGFx](https://tieba.baidu.com/home/main?id=tb.1.11319091.iQgvyI49bOEiEhRVOOPT9g?t=1731556715&fr=pb)，2024年12月21日。帮助如下：
+    1. 在最一开始整理的时候，给予了很多创作者视角的建议。
+    2. 从最一开始到结束，一直支持着我做下去。
+    3. 指出了很多我有所疏漏（不仅在内容上）的地方。
+    4. 帮助我给邀请的老师们所提供的内容提出改进意见。
+2. 文研部，2024年12月22日至今。在完成这个整理的时候偷了不少群内大佬的结论过来。
+3. [秋山そら](https://tieba.baidu.com/home/main?id=tb.1.f260a500.Hsa4181Io0oy4eVB6M35mg?t=1731690862&fr=pb)，2024年12月24日。帮助如下：
+    1. 确定了八奈见的家的大概地理位置。
+    2. 帮助我确定小鞠的家的大概地理位置。
+    3. 帮助我找到了丰桥市的经济统计数据。
+4. someone（字面义），2024年12月25日。虽然我不知道你是谁，但是你所整理出的部分角色间常用称呼表，给我最一开始整理的过程带来了极大的便利，真的很感谢。（另外整理的时候，除了汉字是我手敲的以外，剩下全是OCR识图出来的，日语真不认识，如果有问题请联系我进行修改，多谢）
+5. [ruinform](https://tieba.baidu.com/home/main?id=tb.1.c03278fd.3JkRAkEBk-9BmRqe5Kba1Q?t=1722404833&fr=pb)，2024年12月28日。帮助如下：
+    1. 整理了小说内出现的所有除社刊以外的轻小说。
+    2. 纠正了我对于小说人设图的错误认知。
+    3. 指出了二卷和七卷的一个翻译错误，帮助我捋清时间线。
+    4. 完成了八奈见杏菜的基本性格特点分析和温八关系演变部分。
+6. [乌丸府兰](https://tieba.baidu.com/home/main?id=tb.1.a5b901af.qHcTCdPJGtFpxFM7LKYwHQ&ie=utf-8&fr=pb)，2024年12月29日。出于我自己实在是没怎么看过以白玉为主题的文的原因，所以通过他的推荐找到了[林深时见鹿.txt](https://tieba.baidu.com/home/main?id=tb.1.fbc4e871.cRb--a-Xq5XcJNPS0xK--g?t=1734616395&fr=pb)老师。
+7. [某上条的心理掌握](https://tieba.baidu.com/home/main?id=tb.1.309cee06.TJV3rfNq_ySxUFRc8_pESw?t=1730109151&fr=pb)，2024年12月29日。出于同样的原因，帮助我找到了[天罡三十七星天爱星](https://tieba.baidu.com/home/main?id=tb.1.d0024e7d.hMsU3nByBtBogn_DQB4_Uw?t=1723892770&fr=pb)和[天天天言](https://tieba.baidu.com/home/main?id=tb.1.3d5d3bb8.byhIdbOv8QQ7OZmHVgW_Vw?t=1723991204&fr=pb)老师。
+8. [林深时见鹿.txt](https://tieba.baidu.com/home/main?id=tb.1.fbc4e871.cRb--a-Xq5XcJNPS0xK--g?t=1734616395&fr=pb)，2024年12月29日。帮助如下：
+    1. 提出建议，帮助我注意到了在之前的整理过程中未曾注意到的点。
+    2. 完成了对白玉莉子角色的性格特点的总结。
+9. [我八胃大，无需多盐](https://tieba.baidu.com/home/main?id=tb.1.8c63d37a.V8ezIODj9P9nWVY1JgbmmA?t=1727570073&fr=pb)，2025年1月2日。帮助如下：
+    1. 指出部分信息错误。
+    2. 对地理位置推测部分的展示方式提出建议。
+    3. 帮助我给邀请的老师们所提供的内容提出改进意见。
+10. [风飞扬羽](https://tieba.baidu.com/home/main?id=tb.1.6a8fcc10.QYxJi_h9u5nlxbHUyKpVUQ?t=1728572637&fr=pb)，2025年1月2日。帮助如下：
+    1. 提出建议，优化了时间线的视觉效果。
+    2. 完成了对烧盐柠檬的基本性格特点分析和心路历程。
+    3. 提供了第六卷的时间线。
+11. [美琴赛高](https://tieba.baidu.com/home/main?id=tb.1.67d8e769.PvHpxDlxeOGOJASyiOAuqQ?t=1732896932&fr=pb)，2025年1月2日。帮助如下：
+    1. 提供了一个对日本行政区划的比较详细的说明。
+12. [太阳杭氧](https://tieba.baidu.com/home/main?id=tb.1.a53da60b.eY8JLHpAh87OUKJB2phFOg?t=1483833739&fr=pb)，2025年1月8日。帮助如下：
+    1. 完成了关于创作八奈见杏菜主视角的经验部分。
+    2. 完成、校对了所有角色的对人称呼的日语部分。
+13. [沐冰河青龙王](https://tieba.baidu.com/home/main?id=tb.1.e2e92253.rOdA-Ma6dZ0NIuxyAoY1sA?t=1622625399&fr=pb)，2025年1月11日。提供了对温水家具体大小的推测。
+14. [侦探蜘蛛](https://tieba.baidu.com/home/main?id=tb.1.4ac4e479.CETjJDHJSRTyN7bkxFHEBQ?t=1728588915&fr=pb)，2025年1月14日。帮助我找到了[和光同尘hl](https://tieba.baidu.com/home/main?id=tb.1.b794edb5.K8oxXlE-sCacH8cjXbU_Og?t=1735360659&fr=pb)老师。
+15. [古蕾亚与安](https://tieba.baidu.com/home/main?id=tb.1.872933f9.ex7tuEnaTHrRyx1Q8kIYTA?t=1561799348&fr=pb)，2025年1月16日。完成了小鞠知花的基本性格特点分析。
+16. [DONGRILANSEN](https://tieba.baidu.com/home/main?id=tb.1.47b94547.OXbsOJow6legbcvF3yCGdA?t=1734927133&fr=pb)，2025年1月22日。分享了关于在贴吧发帖的排版经验，以及一些写文小技巧。
+17. [梅有鱼](https://tieba.baidu.com/home/main?id=tb.1.e23be542.2VniIiDYdFfjb1loVqj4PA?t=1734516322&fr=pb)，帮助如下：
+    1. 2025年1月22日。分享了关于在贴吧发帖的排版经验，以及一些写文小技巧。
+    2. 2025年5月24日。帮助校对了角色对人称呼的日语部分。
+18. [咕咕鸡🐔太阳系固有](https://tieba.baidu.com/home/main?id=tb.1.6d904325.KfDp5R9ryWIMjocjC5ttnQ?t=1732460453&fr=pb)，2025年1月26日。分享了一些写文小技巧。
+19. [和光同尘hl](https://tieba.baidu.com/home/main?id=tb.1.b794edb5.K8oxXlE-sCacH8cjXbU_Og?t=1735360659&fr=pb)，2025年1月29日。完成了志喜屋梦子的基本性格特点分析和心路历程。
+20. [天天天言](https://tieba.baidu.com/home/main?id=tb.1.3d5d3bb8.byhIdbOv8QQ7OZmHVgW_Vw?t=1723991204&fr=pb)，2025年2月3日。完成了温水佳树的基本性格特点分析和心路历程。
+21. [カオスアトラクター](https://tieba.baidu.com/home/main?id=tb.1.3beadd49.giWzxhyVew_OoBKj_zR4hg&ie=utf-8&fr=pb)，2025年2月5日。完成了对温水和彦的基本性格特点分析和心路历程。
+22. [浅海漫步](https://tieba.baidu.com/home/main?id=tb.1.3c7f355c.OJ-70OSEPJIeZrVV-W8wcA?t=1729574867&fr=pb)，2025年2月5日。完成了对温水和彦的基本性格特点分析和心路历程。
+23. [天罡三十七星天爱星](https://tieba.baidu.com/home/main?id=tb.1.d0024e7d.hMsU3nByBtBogn_DQB4_Uw?t=1723892770&fr=pb)，2025年2月6日。完成了对马剃天爱星的基本性格特点分析和心路历程。
+24. [laial](https://tieba.baidu.com/home/main?id=tb.1.7494fb22.Shw6_HGUmxk7-3z4MTgRFg?t=1735043387&fr=pb)，2025年2月8日。指出部分错误。
+25. [Yamada杏菜ᅟᅠ](https://tieba.baidu.com/home/main?id=tb.1.f192a1d.Pt8XJ0n-ICRHJF_IlptSag?t=1735101648&fr=pb)，2025年2月10日。指出对人称呼部分的日语错误。
+26. [贴吧用户_a7NUaAU](https://tieba.baidu.com/home/main?id=tb.1.647ec1aa.yRofUV_1cWmOofpa-jisGQ&fr=pb)，2025年2月14日。指出部分错误。
+27. [沈呀么沈二华](https://tieba.baidu.com/home/main?id=tb.1.8a6ffda0.DRsOYq1jKBo-1BXdEY75rg?t=1741442577&fr=pb)，2025年3月2日。指出朝云对人称呼部分的信息缺失。
+28. [W0A2N1G3](https://tieba.baidu.com/home/main?id=tb.1.9fed56b6.GCgsGBCYyNlrAhOQF-55OA?t=1737213770&fr=pb)，2025年3月9日。指出部分文字错误。
+29. [云淡快去写作业](https://tieba.baidu.com/home/main?id=tb.1.d42d5415.6N5TrkeYnixQ2bBHgiSd2Q?t=1738573488&fr=pb)，帮助如下：
+    1. 2025年3月19日。指出`3.3.12`到`3.3.14`日期错误。
+    2. 2025年5月18日。完成八卷时间线的整理。
+30. [奈何](https://tieba.baidu.com/home/main?id=tb.1.75a60b35.Zkmc9p7G6WxYMJbRXfIi8A?t=1742742927&fr=pb)，2025年4月20日。指出樱井弘人部分对人称呼的日语错误。
+31. [红天跃](https://tieba.baidu.com/home/main?id=tb.1.da596216.UnWf-M0L_MKRb9x9yA60lQ?t=1617361169&fr=pb)，2025年5月23日。指出角色对人称呼部分的日语错误。

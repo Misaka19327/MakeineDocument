@@ -4,5 +4,11 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables></variables>
+    <build-profile instance="makeine_canon_document">
+        <variables>
+            <noindex-content>false</noindex-content>
+            <offline-docs>true</offline-docs>
+        </variables>
+    </build-profile>
 
 </buildprofiles>

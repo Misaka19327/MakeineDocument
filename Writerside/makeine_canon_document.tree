@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="makeine_canon_document"
+                 name="MakeineCanonDocument"
+                 start-page="makeinecanondocument.md">
+
+    <toc-element topic="makeinecanondocument.md"/>
+    <toc-element topic="开始之前.md"/>
+    <toc-element toc-title="角色信息">
+        <toc-element topic="人物关系图.md"/>
+        <toc-element topic="八奈见杏菜.md"/>
+        <toc-element topic="小鞠知花.md"/>
+        <toc-element topic="烧盐柠檬.md"/>
+        <toc-element topic="温水和彦.md"/>
+        <toc-element topic="温水佳树.md"/>
+        <toc-element topic="志喜屋梦子.md"/>
+        <toc-element topic="绫野光希.md"/>
+        <toc-element topic="朝云千早.md"/>
+        <toc-element topic="袴田草芥.md"/>
+        <toc-element topic="姬宫华恋.md"/>
+        <toc-element topic="月之木古都.md"/>
+        <toc-element topic="玉木慎太郎.md"/>
+        <toc-element topic="甘夏古奈美.md"/>
+        <toc-element topic="小拔小夜.md"/>
+        <toc-element topic="马剃天爱星.md"/>
+        <toc-element topic="放虎原云雀.md"/>
+        <toc-element topic="樱井弘人.md"/>
+        <toc-element topic="白玉莉子.md"/>
+    </toc-element>
+    <toc-element topic="角色关系信息.md">
+        <toc-element topic="八奈见杏菜-温水和彦.md"/>
+        <toc-element topic="八奈见杏菜-袴田草芥.md"/>
+        <toc-element topic="月之木古都-玉木慎太郎.md"/>
+        <toc-element topic="温水和彦-温水佳树.md"/>
+        <toc-element topic="温水和彦-小鞠知花.md"/>
+    </toc-element>
+    <toc-element topic="时间线.md">
+        <toc-element topic="一卷事件梳理.md"/>
+        <toc-element topic="二卷事件梳理.md"/>
+        <toc-element topic="三卷事件梳理.md"/>
+        <toc-element topic="四卷事件梳理.md"/>
+        <toc-element topic="五卷事件梳理.md"/>
+        <toc-element topic="六卷事件梳理.md"/>
+        <toc-element topic="七卷事件梳理.md"/>
+        <toc-element topic="八卷事件梳理.md"/>
+    </toc-element>
+    <toc-element toc-title="针对具体事件/场所的信息整理/推测">
+        <toc-element topic="文艺部.md"/>
+        <toc-element topic="学校.md"/>
+        <toc-element topic="白谷海水浴场.md"/>
+        <toc-element topic="家庭餐厅.md"/>
+        <toc-element toc-title="角色的家的信息">
+            <toc-element topic="八奈见家.md"/>
+            <toc-element topic="温水家.md"/>
+            <toc-element topic="小鞠家.md"/>
+        </toc-element>
+        <toc-element topic="Kalmia-购物中心.md"/>
+        <toc-element topic="丰桥市地底资源馆.md"/>
+        <toc-element topic="丰桥市综合动植物园.md"/>
+        <toc-element topic="向山绿地.md"/>
+        <toc-element topic="桃园国中.md"/>
+        <toc-element topic="竹岛水族馆.md"/>
+        <toc-element topic="婚礼会场.md"/>
+    </toc-element>
+    <toc-element toc-title="杂项">
+        <toc-element topic="高中体育大会.md"/>
+        <toc-element topic="丰桥市.md"/>
+        <toc-element topic="出场过的轻小说们和其他的书.md"/>
+    </toc-element>
+    <toc-element topic="发帖、排版注意事项.md"/>
+</instance-profile>
